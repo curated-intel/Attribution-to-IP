@@ -28,6 +28,5 @@
 
 | Method | Description | Source(s) |
 | --- | --- | --- |
-| NetFlow |  | Team Cymru Pure Signal |
-| Breach Data |  | SpyCloud  |
-|  |  |  |
+| NetFlow |  | [Team Cymru Pure Signal](https://www.team-cymru.com/) |
+| Breach Data |  | [SpyCloud](https://spycloud.com/)  |
