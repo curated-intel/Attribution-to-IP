@@ -13,7 +13,7 @@
 | Open Ports & Running Services | | [Shodan](https://www.shodan.io/) / [FOFA](https://en.fofa.info/) / [Censys](https://search.censys.io/) / [Onyphe](https://search.onyphe.io/) |
 | SSL Certificates | | [Certificate Search](https://crt.sh) / [Censys](https://search.censys.io/) |
 | Autonomous System Names (ASNs) | | [IPinfo](https://ipinfo.io/) / [InfoByIP](https://www.infobyip.com/) / [IPQS](https://www.ipqualityscore.com/) / [Shodan](https://www.shodan.io/) / [FOFA](https://en.fofa.info/) / [Censys](https://search.censys.io/) / [Onyphe](https://search.onyphe.io/) |
-| Geolocation | | [IPinfo](https://ipinfo.io/) / [InfoByIP](https://www.infobyip.com/) / [IPQS](https://www.ipqualityscore.com/) / [Shodan](https://www.shodan.io/) / [FOFA](https://en.fofa.info/) / [Censys](https://search.censys.io/) / [Onyphe](https://search.onyphe.io/) |
+| Geolocation | | [MaxMind](https://www.maxmind.com/en/geoip-demo) / [IPinfo](https://ipinfo.io/) / [InfoByIP](https://www.infobyip.com/) / [IPQS](https://www.ipqualityscore.com/) / [Shodan](https://www.shodan.io/) / [FOFA](https://en.fofa.info/) / [Censys](https://search.censys.io/) / [Onyphe](https://search.onyphe.io/) |
 | Border Gateway Protocol (BGP) | | [BGP Hurricane Electric](https://bgp.he.net/) / [BGP Tools](https://bgp.tools/) |
 | Content Archives | | [URLscan](https://urlscan.io/) / [Wayback Machine](https://web.archive.org/) |
 | Manual Browsing | | [Browserling](https://www.browserling.com/) |
