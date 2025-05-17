@@ -1,5 +1,7 @@
 # Attribution to IP
 - A collection of methods to learn who the owner of an IP address is.
+- The reason for this could be for the IP being victimised in an attack, being currently compromised, or having security misconfigurations and could be attacked.
+- These methods are useful for cyber threat intelligence (CTI) analysts performing victim notifications or security researchers working on bug bounty programs. 
 
 ## OSINT & Freemium Services
 > [!NOTE]
