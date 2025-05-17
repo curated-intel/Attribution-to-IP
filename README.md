@@ -19,8 +19,8 @@
 | Manual Browsing | | [Browserling](https://www.browserling.com/) |
 | Google Dorking | | [Google Dork Examples](https://github.com/BushidoUK/OSINT-SearchOperators/blob/main/GoogleDorks.csv) |
 | Code Repositories | | [GitHub](https://github.com/) / [BitBucket](https://bitbucket.org/) |
-| Linked to Tor Nodes | | [TOR Node List](https://dev.dan.me.uk/tornodes) |
-| Linked to VPNs/Proxies | | [Spur](https://spur.us/context/me) |
+| Linked to Tor Nodes | | [TOR Node List](https://dev.dan.me.uk/tornodes) / [IPQS](https://www.ipqualityscore.com/) |
+| Linked to VPNs/Proxies | | [Spur](https://spur.us/context/me) / [IPQS](https://www.ipqualityscore.com/) |
 
 ## Commercial
 > [!WARNING]
