@@ -22,6 +22,7 @@
 | Google Dorking | Use advanced search operators to find references to the IP online that could be used to identify its owner. | [Google Dork Examples](https://github.com/BushidoUK/OSINT-SearchOperators/blob/main/GoogleDorks.csv) |
 | Code Repositories | Search in code repositories for references to the IP as the developers sometimes hardcode IPs in their code and configuration files. | [GitHub](https://github.com/) / [BitBucket](https://bitbucket.org/) |
 | Linked to Tor Nodes, VPNs, or Proxies | Checking in lists of Tor, VPNs, or Proxy nodes suggests the IP is not owned by a specific end-user but part of a privacy or anonymisation network. | [TOR Node List](https://dev.dan.me.uk/tornodes) / [IPQS](https://www.ipqualityscore.com/) / [Spur](https://spur.us/context/me) |
+| Cloud Storage | Cloud storage buckets may contain config files, logs, build artifacts, or naming conventions that tie back to the IP owner. | [GrayHatWarfare](https://grayhatwarfare.com/) |
 
 ## Commercial
 > [!WARNING]
