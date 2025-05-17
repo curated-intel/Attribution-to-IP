@@ -27,5 +27,5 @@
 
 | Method | Description | Source(s) |
 | --- | --- | --- |
-| NetFlow |  | [Team Cymru Pure Signal](https://www.team-cymru.com/) |
-| Breach Data |  | [SpyCloud](https://spycloud.com/)  |
+| NetFlow | NetFlow captures metadata about traffic flows (source/destination IPs, ports, protocol, timestamps) and can be used to track communication patterns, peer IPs, and usage behavior. Repeated traffic between an IP and a corporate network could indicate ownership. | [Team Cymru Pure Signal](https://www.team-cymru.com/) |
+| Breach Data | Breach Data includes leaked credentials, config files, and service records from compromised systems and could be used to directly connect an IP to an email address, domain, or username and imply corporate ownership. | [SpyCloud](https://spycloud.com/) |
