@@ -24,6 +24,7 @@
 | Linked to Tor Nodes, VPNs, or Proxies | Checking in lists of Tor, VPNs, or Proxy nodes suggests the IP is not owned by a specific end-user but part of a privacy or anonymisation network. | [TOR Node List](https://dev.dan.me.uk/tornodes) / [IPQS](https://www.ipqualityscore.com/) / [Spur](https://spur.us/context/me) |
 | Cloud Storage | Cloud storage buckets may contain config files, logs, build artifacts, or naming conventions that tie back to the IP owner. | [GrayHatWarfare](https://grayhatwarfare.com/) / [Odin](https://odin.io/) |
 | IP Behaviours | Honeypot networks can also help discern what an IP is doing and who owns it based on it's observed interactions with honeypot IPs. | [GreyNoise](https://viz.greynoise.io/) |
+| Security TXT Records| Querying the IP directly can reveal the security TXT file at .well_known/security.txt or /security.txt paths on a host ip. DNS implementations also exist for security TXT files, these can be found as DNS TXT records.  | [Browserling](https://www.browserling.com/) /[Mxtoolbox](https://mxtoolbox.com/DNSLookup.aspx) / [urlscan](https://urlscan.io) / [security txt](https://securitytxt.org/) /[dns security txt](https://dnssecuritytxt.org/) |
 
 ## Commercial
 > [!WARNING]
