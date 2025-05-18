@@ -33,7 +33,7 @@
 | Method | Description | Source(s) |
 | --- | --- | --- |
 | NetFlow | NetFlow captures metadata about traffic flows (source/destination IPs, ports, protocol, timestamps) and can be used to track communication patterns, peer IPs, and usage behavior. Repeated traffic between an IP and a corporate network could indicate ownership. | [Team Cymru Pure Signal](https://www.team-cymru.com/) |
-| Breach Data | Breach Data includes leaked credentials, config files, and service records from compromised systems and could be used to directly connect an IP to an email address, domain, or username and imply corporate ownership. | [SpyCloud](https://spycloud.com/) / [AmIBreached](https://amibreached.com/) / [Intelx](https://intelx.io/) / [Dehashed](https://dehashed.com/) / [Socradar](https://socradar.io/) / [Hudsonrock](http://hudsonrock.com/) |
+| Breach Data | Breach Data includes leaked credentials, config files, and service records from compromised systems and could be used to directly connect an IP to an email address, domain, or username and imply corporate ownership. | [SpyCloud](https://spycloud.com/) / [AmIBreached](https://amibreached.com/) / [Intelx](https://intelx.io/) / [Dehashed](https://dehashed.com/) / [Socradar](https://socradar.io/) / [Hudsonrock](http://hudsonrock.com/) / [hackedlist](https://hackedlist.io/) |
 
 ## Additional Resources
 - [Pivot Atlas](https://gopivot.ing/tools/) - A list of various tools and platforms that enable different types of pivots on different types of data.
