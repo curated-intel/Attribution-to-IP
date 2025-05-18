@@ -40,6 +40,7 @@
 
 ## Additional Resources
 - [Pivot Atlas](https://gopivot.ing/tools/) - A list of various tools and platforms that enable different types of pivots on different types of data.
+- [IOC Vetting Sources](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/IOC-vetting.md) - A list of various tools and platforms to check the reputation of an IP address.
 
 ### Special Credits
 - Thanks to Dan, Conor, and Josh from Team Cymru
