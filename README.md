@@ -41,6 +41,7 @@
 ## Additional Resources
 - [Pivot Atlas](https://gopivot.ing/tools/) - A list of various tools and platforms that enable different types of pivots on different types of data.
 - [IOC Vetting Sources](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/IOC-vetting.md) - A list of various tools and platforms to check the reputation of an IP address.
+- [ThreatFox](https://threatfox.abuse.ch/browse/) - ThreatFox is a platform from abuse.ch and Spamhaus dedicated to sharing indicators of compromise (IOCs) associated with malware, with the infosec community, AV vendors and cyber threat intelligence providers. Upload IOCs and explore the database for valuable intelligence. Use the APIs to seamlessly push and pull signals, and automate bulk queries.
 
 ### Special Credits
 - Thanks to Dan, Conor, and Josh from Team Cymru
